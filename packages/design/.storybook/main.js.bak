@@ -1,8 +1,0 @@
-// https://miyauchi.dev/posts/storybook-vite/#fnref-1
-// https://miyauchi-storybook.web.app/?path=/story/alert--default
-const { register } = require('esbuild-register/dist/node')
-register({
-  target: 'node15'
-})
-module.exports = require('./main.ts')
-
