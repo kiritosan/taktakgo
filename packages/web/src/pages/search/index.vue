@@ -32,4 +32,5 @@
   </div>
 </header>
 
+    <div text-slate-400>ok</div>
 </template>
