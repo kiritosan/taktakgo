@@ -1,6 +1,6 @@
 // https://github.com/storybookjs/builder-vite#customize-vite-config
 // https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook/blob/main/.storybook/main.js
-import customConfig from './vite.config' // 这里不能是vite.config.js或ts
+import customConfig from '../vite.config' // 这里不能是vite.config.js或ts
 import { loadConfigFromFile, mergeConfig } from 'vite'
 // import path from 'path' // https://stackoverflow.com/questions/41553291/can-you-import-nodes-path-module-using-import-path-from-path
 import type { StorybookViteConfig } from '@storybook/builder-vite'
