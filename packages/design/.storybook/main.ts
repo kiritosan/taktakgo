@@ -1,3 +1,5 @@
+// https://storybook.js.org/docs/vue/builders/vite
+
 // https://github.com/storybookjs/builder-vite#customize-vite-config
 // https://github.com/Miguel-Bento-Github/vite-vue-ts-storybook/blob/main/.storybook/main.js
 import customConfig from '../vite.config' // 这里不能是vite.config.js或ts

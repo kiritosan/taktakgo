@@ -1,1 +1,1 @@
-export { default as Button } from './components/Button/index.vue'
+export { default as Term } from './components/Term/index.vue'
